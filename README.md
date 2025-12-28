@@ -88,6 +88,7 @@ API-Automation-Framework
 ## Test Implementation
 
 ### Feature Files
+![Feature File](docs/FeatureFile.png)
 - Written using Gherkin language  
 - Location: src/test/java/Features
 
