@@ -88,7 +88,6 @@ API-Automation-Framework
 ## Test Implementation
 
 ### Feature Files
-![Feature File](https://github.com/Sumit1694/bdd-api-automation-framework/raw/main/docs/FeatureFile.png)
 - Written using Gherkin language  
 - Location: src/test/java/Features
 
